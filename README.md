@@ -1,1 +1,1 @@
-# AI-Face-Detection-Javascript-
+# AI-Face-Detection-Javascript
